@@ -31,7 +31,7 @@ train <- cbind(train_feat, train_data)
 
 # merged data
 all_data <- rbind(test, train)
-# returning data
+
 return(all_data)
 
 ## PART 4
